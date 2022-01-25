@@ -1,5 +1,7 @@
 # GKE Networking Recipes
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/dc7d42a3-0f92-46c1-a1c0-bc292a74a462.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/gke-networking-recipes?orgId=561911742905)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/056aad21-4f10-4c35-abae-942211ba3cc6.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/gke-networking-recipes?orgId=561911742905)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/bba34112-ae82-42f2-aba0-fc769e3de068.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/gke-networking-recipes?orgId=561911742905)  
+
 This repository contains various use cases and examples of GKE Networking. For each of the use-cases there are full YAML examples that show how and when these GKE capabilities should be used.
 
 If you're not familiar with the basics of Kubernetes networking then check out [cluster networking](https://kubernetes.io/docs/concepts/cluster-administration/networking/) and [service networking](https://kubernetes.io/docs/concepts/services-networking/). These resources should give you some of the foundations behind Kubernetes networking.
